@@ -1,3 +1,19 @@
+Write github copilot prompt to give full perfect response for vb6 to .net core 10 conversion considring the below 
+
+to Convert VB6 application source code to .NET Core 10. Write markdown files as agents for each phase: 
+1. Perform full analysis
+2. Identify every component
+3. List component details and things to consider
+4. Detail all component mapping plan
+5. Full conversion progress
+6. List all the issues, todo - categorize [Low, Medium, High, Critical], give corresponding resolutions recommendations
+7. Create xUnit test cases covering unit test individual component, integration testing, regression testing, code coverage upto 97%, understand business logics and write functional test method
+8. Build each project, assess for code vulerabilities, recommend the resolution
+9. Write Docker containerization and orchestration files
+Create the files in the below directory
+"D:\GitHubRepository\VB6ToDotNetCore"
+
+-----------
 act as a VB6 SDK and .NET CORE 10 SDK
 
 To convert a vb6 complex application to .Net core 10
